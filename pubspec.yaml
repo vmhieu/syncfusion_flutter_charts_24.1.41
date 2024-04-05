@@ -11,9 +11,9 @@ dependencies:
     sdk: flutter
   intl: ^0.17.0
   vector_math: ">=2.1.0 <=3.0.0"
-  syncfusion_flutter_core: 
-    git:
-      url: https://github.com/vmhieu/syncfusion_flutter_core_24.1.41.git
-      ref: master
+  syncfusion_flutter_core: ^24.1.41
+    # git:
+    #   url: https://github.com/vmhieu/syncfusion_flutter_core_24.1.41.git
+    #   ref: master
 
 flutter:
